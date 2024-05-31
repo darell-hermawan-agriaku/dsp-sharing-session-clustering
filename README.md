@@ -1,13 +1,17 @@
-1. Build new environment<br>
+1. Clone this repository
+   ```
+   git clone https://github.com/darell-hermawan-agriaku/dsp-sharing-session-clustering.git
+   ```
+2. Build new environment<br>
    ```
    python -m venv venv_sharing_session
    ```
-2. Activate your own environment
+3. Activate your own environment
    ```
    source venv_sharing_session/bin/activate
    ```
-3. Install dependencies
+4. Install dependencies
    ```
    pip install -r requirements.txt
    ```
-4. Happy experimenting !
+5. Happy experimenting !
